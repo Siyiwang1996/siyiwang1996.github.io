@@ -372,11 +372,11 @@ table.imgtable, table.imgtable td {
 /* Publications */
 .pub-title {
   font-weight: 500;
-  margin-bottom: 6px;   /* 原来4px，改成6px */
+  margin-bottom: 5px;   /* 原来4px，改成6px */
 }
 
 .pub-authors {
-  margin-bottom: 6px;   /* 原来4px，改成6px */
+  margin-bottom: 5px;   /* 原来4px，改成6px */
 }
 
 .pub-venue {
