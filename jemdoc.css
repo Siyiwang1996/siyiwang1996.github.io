@@ -368,3 +368,22 @@ table.imgtable, table.imgtable td {
 	border: none;
 	text-align: left;
 }
+
+/* Publications */
+.pub-list li {
+  margin-bottom: 22px;
+}
+
+.pub-title {
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.pub-authors {
+  margin-bottom: 4px;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: #444;
+}
