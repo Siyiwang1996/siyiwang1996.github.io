@@ -370,20 +370,18 @@ table.imgtable, table.imgtable td {
 }
 
 /* Publications */
-.pub-list li {
-  margin-bottom: 22px;
-}
-
 .pub-title {
   font-weight: 500;
-  margin-bottom: 4px;
+  margin-bottom: 6px;   /* 原来4px，改成6px */
 }
 
 .pub-authors {
-  margin-bottom: 4px;
+  margin-bottom: 6px;   /* 原来4px，改成6px */
 }
 
 .pub-venue {
   font-style: italic;
   color: #444;
+  margin-top: 2px;      /* 给点呼吸感 */
 }
+
