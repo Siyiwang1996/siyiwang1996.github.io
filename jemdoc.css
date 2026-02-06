@@ -376,11 +376,13 @@ table.imgtable, table.imgtable td {
 }
 
 .pub-authors {
+font-size: 0.85em;    /* venue 再小一点，很常见 */
   margin-bottom: 4px;   /* 原来4px，改成6px */
 }
 
 .pub-venue {
   font-style: italic;
+	font-size: 0.85em;    /* venue 再小一点，很常见 */
 	margin-bottom: 4px;   /* 原来4px，改成6px */
   color: #444;
 }
